@@ -1,4 +1,4 @@
-<a href="https://www.biodrop.io/Rudraksh2003" target="_blank"><img src="https://github.com/Rudraksh2003/RudrakshMaheshwari/blob/main/Yuppies%20Collage%20General%20LinkdIn%20Banner%20(5).png"/></a>
+<a href="https://rudraksh2003.github.io/portfolio/index.html" target="_blank"><img src="https://github.com/Rudraksh2003/RudrakshMaheshwari/blob/main/Yuppies%20Collage%20General%20LinkdIn%20Banner%20(5).png"/></a>
 
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/rudraksh_laddha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rudraksh_laddha" height="30" width="40" /></a>

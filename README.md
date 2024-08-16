@@ -30,5 +30,5 @@
  
 ## 
 <p align="right">
-<a href= "https://github-readme-stats.vercel.app/api?username=Rudraksh2003&theme=radical&show_icons=true&hide_border=true&count_private=true" width="50">
+![Rudraksh2003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudraksh2003&theme=vue-dark&hide_border=false)
 </p>

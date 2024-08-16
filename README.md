@@ -30,5 +30,8 @@
  
 ## 
 
-![Rudraksh2003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudraksh2003&theme=vue-dark&hide_border=false)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif" style="max-width: 49%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudraksh2003&theme=onedark&hide_border=false" style="max-width: 49%; height: auto;" />
+</div>
 

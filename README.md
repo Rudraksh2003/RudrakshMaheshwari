@@ -35,5 +35,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudraksh2003&theme=onedark&hide_border=false" style="max-width: 49%; height: auto;" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  style="max-width: 100%;">
 

@@ -29,6 +29,6 @@
 </p>
  
 ## 
-<p align="right">
+
 ![Rudraksh2003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudraksh2003&theme=vue-dark&hide_border=false)
-</p>
+
